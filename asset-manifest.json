@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rappler-phcoc/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/rappler-phcoc/static/js/main.5f88f50f.chunk.js",
+    "main.js.map": "/rappler-phcoc/static/js/main.5f88f50f.chunk.js.map",
+    "runtime-main.js": "/rappler-phcoc/static/js/runtime-main.ee45caa0.js",
+    "runtime-main.js.map": "/rappler-phcoc/static/js/runtime-main.ee45caa0.js.map",
+    "static/js/2.4545d750.chunk.js": "/rappler-phcoc/static/js/2.4545d750.chunk.js",
+    "static/js/2.4545d750.chunk.js.map": "/rappler-phcoc/static/js/2.4545d750.chunk.js.map",
+    "static/js/3.98c9ddc0.chunk.js": "/rappler-phcoc/static/js/3.98c9ddc0.chunk.js",
+    "static/js/3.98c9ddc0.chunk.js.map": "/rappler-phcoc/static/js/3.98c9ddc0.chunk.js.map",
+    "index.html": "/rappler-phcoc/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/rappler-phcoc/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4545d750.chunk.js.LICENSE.txt": "/rappler-phcoc/static/js/2.4545d750.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rappler-phcoc/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee45caa0.js",
+    "static/js/2.4545d750.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5f88f50f.chunk.js"
+  ]
+}
